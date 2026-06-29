@@ -12,3 +12,6 @@ let move = (nums) =>{
 }
 let nums = [10,0,2,0,3,0,5];
 move(nums);
+
+
+// in this question we do swapping of number which are not zero , 
