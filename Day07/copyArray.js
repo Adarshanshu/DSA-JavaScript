@@ -1,3 +1,6 @@
+// this function lets you copy the two array in single array without 
+// using any prebuilt method
+
 let copy = function(arr1,arr2){
     let index = 0;
     let answer = [];
