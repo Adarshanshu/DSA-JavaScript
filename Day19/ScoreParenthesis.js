@@ -45,4 +45,4 @@ var scoreOfParentheses = function(s) {
 
  s = "()()";
 
- console.log(scoreOfParenthesis(s));
+ console.log(scoreOfParentheses(s));
